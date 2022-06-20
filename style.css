@@ -25,6 +25,7 @@ body {
   color: #777;
 }
 
+
 .header-navigation {
   width: 100%;
   background-color: #fff;
@@ -109,4 +110,9 @@ aside {
 
 .drink-name {
   text-align: center;
+}
+
+.issue {
+  font-size: 20px;
+  color:red;
 }
